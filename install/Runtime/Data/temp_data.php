@@ -1,0 +1,1 @@
+{"db_host":"localhost","db_port":"3306","db_user":"root","db_pass":"root","db_name":"weixinshop","force_install":"1","db_prefix":"weixin_","admin_user":"moothin","admin_pass":"mx20141111","admin_pass_confirm":"mx20141111","admin_email":"moothin@qq.com"}

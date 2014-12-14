@@ -1,0 +1,1 @@
+{"0":"id","1":"uid","2":"consignee","3":"address","4":"mobile","5":"sheng","6":"shi","7":"qu","_autoinc":true,"_pk":"id","_type":{"id":"int(10) unsigned","uid":"int(10) unsigned","consignee":"varchar(20)","address":"varchar(255)","mobile":"varchar(30)","sheng":"varchar(50)","shi":"varchar(50)","qu":"varchar(50)"}}

@@ -1,0 +1,1 @@
+{"0":"id","1":"orderId","2":"itemId","3":"title","4":"img","5":"price","6":"quantity","_autoinc":true,"_pk":"id","_type":{"id":"int(11)","orderId":"varchar(50)","itemId":"int(11)","title":"varchar(255)","img":"varchar(255)","price":"decimal(10,2)","quantity":"int(11)"}}
